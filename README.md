@@ -21,8 +21,13 @@
 
 ## 專案結構
 ├── main.py                  # 主程式整合進入點
+
 ├── input_module.py          # Member A：支出輸入與資料儲存模組
+
 ├── viz_module.py            # Member B：資料讀取與圓餅圖視覺化模組
+
 ├── expenses.json            # 儲存支出紀錄的 JSON 檔案（執行後自動生成）
+
 ├── expense_pie_chart.png    # 產生的圓餅圖截圖
+
 └── README.md                # 專案說明文件
